@@ -1,6 +1,7 @@
 {
   "name": "TG URL Uploader",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
+  "repository": "https://github.com/TGExplore/TG-URL-Uploader",
   "keywords": [
     "telegram",
     "best",
